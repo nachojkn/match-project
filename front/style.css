@@ -1,6 +1,9 @@
-section {
-  background: no-repeat center/cover url('./img/backgr2.png');
-  height: 100vh;
+.ContentBackground {
+  background: repeat center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(235, 55, 55, 0.5)), url('./img/opcion_2.png');
+  background-color: #6c757d;
+  background-size: contain;
+  min-height: 100vh;
 }
 
 a.footlink {
