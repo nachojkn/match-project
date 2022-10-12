@@ -1,9 +1,36 @@
 .ContentBackground {
   background: repeat center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(235, 55, 55, 0.5)), url('./img/opcion_2.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(136, 130, 130, 0.5)), url('./img/opcion_2.png');
   background-color: #6c757d;
   background-size: contain;
   min-height: 100vh;
+}
+
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+
+.divlogin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  mix-blend-mode: normal;
+  border-width: 0px 1px 1px 1px;
+  border-style: solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.425);
+}
+
+.loginform {
+  width: 565px;
+  height: 560px;
+  background-color: #F9EDED;
+  border-radius: 0px 0px 20px 20px;
+  box-shadow: 0px 1px 8px #BEBEBE;
+  -webkit-box-shadow: 0px 1px 8px #BEBEBE;
+  -moz-box-shadow: 0px 1px 8px #BEBEBE;
 }
 
 a.footlink {
