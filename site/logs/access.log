@@ -3967,3 +3967,6 @@
 201.212.223.221 - - [14/Oct/2022:20:46:34 -0300] "-" 408 0 "-" "-"
 192.168.0.9 - - [14/Oct/2022:20:56:27 -0300] "GET / HTTP/1.1" 200 2517 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42"
 192.168.0.9 - - [14/Oct/2022:20:57:23 -0300] "-" 408 0 "-" "-"
+181.166.147.105 - - [15/Oct/2022:00:47:08 -0300] "GET / HTTP/1.1" 200 2531 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+181.166.147.105 - - [15/Oct/2022:00:47:09 -0300] "GET /media/opcion_2.png HTTP/1.1" 200 4299531 "http://codoacodo.ddns.net:55005/static/site/css/style.css" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+181.166.147.105 - - [15/Oct/2022:00:48:00 -0300] "-" 408 0 "-" "-"
